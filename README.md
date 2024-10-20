@@ -11,18 +11,11 @@ Installation
 
 Clone the repository:
 
-bash
+
 
 git clone https://github.com/your-username/humrahi-backend.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd humrahi-backend
 Install dependencies:
-
-bash
-Copy code
 npm install
 Create a .env file in the root directory and configure your environment variables:
 
@@ -32,22 +25,20 @@ PORT=3000
 Running the Project
 To start the development server with Nodemon (for auto-reloading), run the following command:
 
-bash
-
 npm run dev
 For production mode:
 
-bash
-
 npm start
+
 Available Scripts
 npm run dev: Runs the app in development mode with Nodemon.
 npm run build: Compiles the TypeScript code into JavaScript.
 npm start: Starts the compiled project in production mode.
+
 API Endpoints
 This project uses Swagger for API documentation. Once the server is running, you can access the API documentation at:
 
-bash
+
 
 http://localhost:3000/api-docs
 Example Routes
