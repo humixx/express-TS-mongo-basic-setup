@@ -10,10 +10,7 @@ Installation
 ![WhatsApp Image 2024-10-20 at 23 10 18_c202ba33](https://github.com/user-attachments/assets/3b99afc8-c0d0-4618-a53e-3d321d91e205)
 
 Clone the repository:
-
-
-
-git clone https://github.com/your-username/humrahi-backend.git
+git clone 
 
 Install dependencies:
 npm install
